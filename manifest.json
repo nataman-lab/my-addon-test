@@ -1,0 +1,9 @@
+{
+  "id": "com.personal.stream",
+  "version": "1.0.0",
+  "name": "Mi Stream Personal", 
+  "description": "Addon personal",
+  "resources": ["stream"],
+  "types": ["movie", "series"],
+  "catalogs": []
+}
