@@ -1,0 +1,23 @@
+{
+  "manifest": {
+    "id": "com.personal.stream",
+    "version": "1.0.0",
+    "name": "Mi Stream Personal",
+    "description": "Addon personal para streaming",
+    "resources": ["stream"],
+    "types": ["movie", "series"],
+    "catalogs": []
+  },
+  "stream": {
+    "tt1234567": [
+      {
+        "title": "Daddy Live Stream",
+        "url": "https://daddylivestream.com/embed/stream-327.php",
+        "type": "embed",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      }
+    ]
+  }
+}
