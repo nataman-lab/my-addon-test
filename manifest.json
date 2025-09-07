@@ -1,9 +1,17 @@
 {
-  "id": "com.personal.stream",
+  "id": "com.personal.live",
   "version": "1.0.0",
-  "name": "Mi Stream Personal", 
-  "description": "Addon personal",
-  "resources": ["stream"],
-  "types": ["movie", "series"],
-  "catalogs": []
+  "name": "Mis Streams Live",
+  "description": "Canales en vivo personales",
+  "resources": ["catalog", "stream"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "canales-live",
+      "name": "📺 Mis Canales Live",
+      "genres": ["Live", "TV"],
+      "extra": []
+    }
+  ]
 }
