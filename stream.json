@@ -1,12 +1,28 @@
 {
   "streams": [
     {
-      "title": "Daddy Live Stream",
-      "url": "https://daddylivestream.com/embed/stream-327.php", 
+      "id": "canal-1",
+      "title": "🔴 Deportes Live",
+      "url": "https://daddylivestream.com/embed/stream-327.php",
       "type": "embed",
+      "thumbnail": "https://imgur.com/thumb1.jpg",
       "behaviorHints": {
         "notWebReady": false
       }
+    },
+    {
+      "id": "canal-2",
+      "title": "🔴 Noticias 24/7", 
+      "url": "https://daddylivestream.com/embed/stream-328.php",
+      "type": "embed",
+      "thumbnail": "https://imgur.com/thumb2.jpg"
+    },
+    {
+      "id": "canal-3",
+      "title": "🔴 Cine Premium",
+      "url": "https://daddylivestream.com/embed/stream-329.php",
+      "type": "embed",
+      "thumbnail": "https://imgur.com/thumb3.jpg"
     }
   ]
 }
