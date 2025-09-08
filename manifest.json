@@ -1,7 +1,7 @@
 {
   "id": "com.personal.live",
   "version": "1.0.0",
-  "name": "Mis Streams Live",
+  "name": "Mis Streams Live", 
   "description": "Canales en vivo personales",
   "resources": ["catalog", "stream"],
   "types": ["movie"],
@@ -14,7 +14,6 @@
       "extra": []
     }
   ],
-  // AÑADE ESTAS LÍNEAS ↓
   "catalogEndpoint": "https://raw.githubusercontent.com/nataman-lab/my-addon-test/main/catalog.json",
   "streamEndpoint": "https://raw.githubusercontent.com/nataman-lab/my-addon-test/main/stream.json"
 }
