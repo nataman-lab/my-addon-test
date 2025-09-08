@@ -4,26 +4,8 @@
       "id": "canal-1",
       "type": "movie",
       "name": "🔴 Canal Deportes Live",
-      "poster": "https://imgur.com/ejemplo1.jpg",
-      "background": "https://imgur.com/ejemplo1-bg.jpg",
-      "description": "Streaming en vivo de deportes",
-      "genres": ["Deportes", "Live"]
-    },
-    {
-      "id": "canal-2",
-      "type": "movie",
-      "name": "🔴 Canal Noticias 24/7",
-      "poster": "https://imgur.com/ejemplo2.jpg",
-      "description": "Noticias en tiempo real",
-      "genres": ["Noticias", "Live"]
-    },
-    {
-      "id": "canal-3",
-      "type": "movie",
-      "name": "🔴 Cine Premium",
-      "poster": "https://imgur.com/ejemplo3.jpg",
-      "description": "Películas en streaming",
-      "genres": ["Cine", "Entertainment"]
-    }
+      "poster": "https://i.imgur.com/3Qr7W4c.jpeg",
+      "description": "Streaming en vivo de deportes"
+    }  // ← SIN COMA
   ]
 }
