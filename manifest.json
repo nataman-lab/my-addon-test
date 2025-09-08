@@ -13,5 +13,8 @@
       "genres": ["Live", "TV"],
       "extra": []
     }
-  ]
+  ],
+  // AÑADE ESTAS LÍNEAS ↓
+  "catalogEndpoint": "https://raw.githubusercontent.com/nataman-lab/my-addon-test/main/catalog.json",
+  "streamEndpoint": "https://raw.githubusercontent.com/nataman-lab/my-addon-test/main/stream.json"
 }
