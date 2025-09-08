@@ -1,7 +1,7 @@
 {
   "id": "com.personal.live",
   "version": "1.0.0",
-  "name": "Mis Streams Live", 
+  "name": "Mis Streams Live",
   "description": "Canales en vivo personales",
   "resources": ["catalog", "stream"],
   "types": ["movie"],
